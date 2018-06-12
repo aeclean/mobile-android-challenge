@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Amaro Best Sellers</string>
+    <string name="formatted_price"><strike>%1$s</strike>%2$s</string>
+</resources>
